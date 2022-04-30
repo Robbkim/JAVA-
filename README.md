@@ -1,2 +1,2 @@
 # JAVA-
-study
+study except collection
