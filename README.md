@@ -1,2 +1,2 @@
 # JAVA-
-study except collection
+study theory
